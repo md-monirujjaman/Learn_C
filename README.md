@@ -1,1 +1,2 @@
-this is my first readme file for github
+learning c language
+
