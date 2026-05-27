@@ -77,10 +77,5 @@ Each chapter contains problem sets to test your understanding and to practice co
 - **[Download the Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)**
 - **[Watch the Course Video](https://www.youtube.com/watch?v=aZb0iu4uGwA)**
 
-## How to Use This Repository
-
-
-
----
 
 Feel free to explore each chapter and work through the exercises to reinforce your learning. Happy coding!
