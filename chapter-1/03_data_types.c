@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main () { 
-   
+int main()
+{
+
     // Integer data type
     int a = 10;
 
@@ -9,5 +10,6 @@ int main () {
     // Character data type
     char c = 'A';
 
-
+    printf("Integer value: %d\n", a);
+    printf("Float value: %.2f\n", b);
 }
