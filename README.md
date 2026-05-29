@@ -78,4 +78,3 @@ Each chapter contains problem sets to test your understanding and to practice co
 - **[Watch the Course Video](https://www.youtube.com/watch?v=aZb0iu4uGwA)**
 
 
-Feel free to explore each chapter and work through the exercises to reinforce your learning. Happy coding!
