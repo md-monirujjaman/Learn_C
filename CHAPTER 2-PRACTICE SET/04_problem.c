@@ -13,7 +13,7 @@ int main()
     // // 0
 
     printf("--------------------------------\n"); // This is for decoration nothing else.
-    printf("The value of e is %d\n", e);
+    printf("The value of e is %f\n", e);
     printf("--------------------------------\n");
 
     
