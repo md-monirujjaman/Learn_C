@@ -15,7 +15,7 @@ int main()
     //3*b/2*c+7*a                        1st prioty */%
     //3*b/2*c+21                         2nd prioty +-
     //18/2*c+21                          3rd prioty  =
-    //9*c+21
+    //9*c+21                             Pro tip= Alwaye use perentheis in case of confusion.
     //81+21
     //103
     return 0;
