@@ -12,13 +12,13 @@ int main()
     printf("------------------------------\n");
     // this same is writing
     printf("------------------------------\n"); // this is for decoration
-    if (a)
-    {
-        if (b)
-        {
-            printf("The both value is true\n");
-        }
-    }
+    // if (a)
+    // {
+    //     if (b)
+    //     {
+    //         printf("The both value is true\n");
+    //     }
+    // }
     printf("------------------------------\n");
 
     if (a && b)
