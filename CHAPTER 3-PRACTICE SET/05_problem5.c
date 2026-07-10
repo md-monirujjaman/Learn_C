@@ -5,7 +5,7 @@ int main()
     char ch;
     printf("Plese input the character you want\n");
     scanf("%d",&ch);
-    
+    //ASCII TABLE AND VALUE NEED FOR THIS PROBLEM
     printf("the character is %c\n",ch);
     printf("the value of character is %d\n",ch);
     // 97 - 122
